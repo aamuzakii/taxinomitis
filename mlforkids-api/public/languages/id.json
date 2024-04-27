@@ -32,28 +32,28 @@
         "INCOMPLETE": "Belum Selesai!"
     },
     "ABOUT": {
-        "TITLE": "Machine Learning for Kids",
-        "IN6SECS": "In 6 seconds...",
-        "IN20MINS": "In 20 minutes...",
+        "TITLE": "Machine Learning untuk Anak",
+        "IN6SECS": "Dalam 6 detik...",
+        "IN20MINS": "Dalam 20 menit...",
         "WHAT": {
-            "TITLE": "What?",
-            "BODY" : "This free tool introduces machine learning by providing hands-on experiences for training machine learning systems and building things with them. <br/><br/>It provides an easy-to-use guided environment for training machine learning models to recognise text, numbers, images, or sounds. <br/><br/>This builds on existing efforts to introduce and teach coding to children, by adding these models to educational coding platforms <a href='https://scratch.mit.edu/about' target='_blank'>Scratch</a> and <a href='https://edublocks.org' target='_blank'>EduBlocks</a>, and helping children create projects and build games with the machine learning models they train. <br/><br/>The tool was first made available in 2017, and is now being <a href='https://wakelet.com/wake/4d3680cb-2a11-49ab-9180-fcfeced48393' target='_blank'>used by thousands of schools, code clubs, and families around the world</a>. <br/><br/>To learn more, look at:"
+          "TITLE": "Apa?",
+          "BODY": "Alat gratis ini memperkenalkan machine learning dengan memberikan pengalaman langsung untuk melatih sistem machine learning dan membangun berbagai hal dengannya. <br/><br/>Alat ini menyediakan lingkungan berpanduan yang mudah digunakan untuk melatih model machine learning untuk mengenali teks, angka, gambar, atau suara. <br/><br/>Ini semua dibangun di atas upaya untuk memperkenalkan dan mengajarkan coding kepada anak-anak, dengan menambahkan model ini ke platform coding edukasi <a href='https://scratch.mit.edu/about' target='_blank'>Scratch</a> dan <a href='https://edublocks.org' target='_blank'>EduBlocks</a>, dan membantu anak-anak membuat proyek dan membangun game dengan model machine learning yang mereka latih. <br/><br/>Alat ini pertama kali tersedia pada tahun 2017, dan sekarang sedang <a href='https://wakelet.com/wake/4d3680cb-2a11-49ab-9180-fcfeced48393' target='_blank'>digunakan oleh ribuan sekolah, klub coding, dan keluarga di seluruh dunia</a>. <br/><br/>Untuk mempelajari lebih lanjut, lihat:"
         },
         "WHY": {
-            "TITLE": "Why?",
-            "BODY": "Machine learning is all around us. We all use machine learning systems every day - such as spam filters, recommendation engines, language translation services, chatbots and digital assistants, search engines, and fraud detection systems.<br/><br/>It will soon be normal for machine learning systems to drive our cars, and help doctors to diagnose and treat our illnesses. <br/><br/>It's important that kids are aware of how our world works. The best way to understand the capabilities and implications is to be able to build with this technology for themselves. <br/><br/>To learn more, watch: <a target='_blank' class='btn btn-primary' href='https://youtu.be/m6dyCRS8EmI'>'Education in the age of AI'</a>"
+          "TITLE": "Kenapa?",
+          "BODY": "Machine learning ada di sekitar kita. Kita semua menggunakan sistem machine learning setiap hari - seperti filter spam, rekomendasi, layanan penerjemahan bahasa, chatbot dan asisten digital, mesin pencarian, dan sistem deteksi penipuan.<br/><br/>Tidak lama lagi, sistem machine learning akan menjadi hal yang umum untuk mengendarai mobil kita, dan membantu dokter untuk mendiagnosis dan merawat penyakit. <br/><br/>Penting bagi anak-anak untuk mengetahui cara kerja dunia kita. Cara terbaik untuk memahami kemampuan dan implikasinya adalah dengan membangun sendiri menggunakan teknologi ini. <br/><br/>Untuk mempelajari lebih lanjut, tonton: <a target='_blank' class='btn btn-primary' href='https://youtu.be/m6dyCRS8EmI'>'Pendidikan di era AI'</a>"
         },
         "TECH": {
-            "TITLE": "Tech",
-            "BODY": "The tool is entirely web-based and requires no installs or complicated setup to be able to use. <br/><br/>It was designed for use in the classroom by schools and volunteer-run coding groups for children, and provides an admin page for teachers or group leaders to be able to manage and administer access for their students.<br/><br/>It is being built by <a target='_blank' href='http://dalelane.co.uk/'>Dale Lane</a> using APIs from <a target='_blank' href='https://www.ibm.com/watson/developer/'>IBM Watson</a>.<br/><br/>For more details about the implementation, you can see the <a target='_blank' href='https://github.com/IBM/taxinomitis/'>source code on GitHub</a>, or read some of the <a target='_blank' href='http://dalelane.co.uk/blog/?tag=mlforkids-tech'>blog posts about the tech</a>. ",
-            "LOGIN": "To get started: "
+          "TITLE": "Teknologi",
+          "BODY": "Alat ini sepenuhnya berbasis web dan tidak memerlukan instalasi atau pengaturan rumit untuk digunakan. <br/><br/>Alat ini dirancang untuk digunakan di kelas oleh sekolah dan kelompok coding sukarelawan untuk anak-anak, dan menyediakan halaman admin bagi guru atau pengelola kelompok coding untuk dapat mengelola dan mengatur akses bagi siswa mereka.<br/><br/>Alat ini sedang dibangun oleh <a target='_blank' href='http://dalelane.co.uk/'>Dale Lane</a> menggunakan API dari <a target='_blank' href='https://www.ibm.com/watson/developer/'>IBM Watson</a>.<br/><br/>Untuk detail lebih lanjut tentang implementasinya, Anda dapat melihat <a target='_blank' href='https://github.com/IBM/taxinomitis/'>kode di GitHub</a>, atau membaca beberapa <a target='_blank' href='http://dalelane.co.uk/blog/?tag=mlforkids-tech'>posting blog tentang teknologinya</a>. ",
+            "LOGIN": "Untuk memulai: "
         },
         "PRETRAINED": {
-            "BODY": "Pre-trained models are also provided for students to use in their projects. These advanced models enable projects that might otherwise be too complex for students to train for themselves, and provide useful hands-on insights into some of the other things that machine learning can do."
+          "BODY": "Model yang sudah terlatih juga disediakan untuk siswa gunakan dalam proyek mereka. Model lanjutan ini memungkinkan proyek yang mungkin terlalu rumit untuk dilatih sendiri oleh siswa, dan memberikan wawasan langsung yang berguna tentang beberapa hal lain yang dapat dilakukan machine learning."
         },
         "FURTHER": {
-            "TITLE": "Further learning",
-            "BODY": "Machine Learning for Kids is a useful tool for introducing children to how ML systems are trained, how they are used, and some of the real-world implications of AI applications. <br/><br/>For additional teaching and learning resources, including teaching the internals of ML systems, please see: "
+          "TITLE": "Pembelajaran lebih lanjut",
+          "BODY": "Machine Learning for Kids adalah alat yang berguna untuk memperkenalkan anak-anak tentang cara melatih sistem ML, cara penggunaannya, dan beberapa implikasi dunia nyata dari aplikasi AI. <br/><br/>Untuk sumber pengajaran dan pembelajaran tambahan, termasuk mengajarkan internal sistem ML, silakan lihat: "
         }
     },
     "LINKS": {
